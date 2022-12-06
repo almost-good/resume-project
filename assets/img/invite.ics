@@ -1,0 +1,37 @@
+BEGIN:VCALENDAR
+PRODID:-//Google Inc//Google Calendar 70.9054//EN
+VERSION:2.0
+CALSCALE:GREGORIAN
+METHOD:REQUEST
+BEGIN:VEVENT
+DTSTART:20221206T193000Z
+DTEND:20221206T200000Z
+DTSTAMP:20221203T214525Z
+ORGANIZER;CN=jubrillionaire@gmail.com:mailto:jubrillionaire@gmail.com
+UID:37o389mo4c72lf1b5b57a8r9f0@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE
+ ;CN=jubrillionaire@gmail.com;X-NUM-GUESTS=0:mailto:jubrillionaire@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE
+ ;CN=marja.marinic@gmail.com;X-NUM-GUESTS=0:mailto:marja.marinic@gmail.com
+X-MICROSOFT-CDO-OWNERAPPTID:-1238494124
+CREATED:20221203T214523Z
+DESCRIPTION:Event Name: Mentorship session\n\n\nMeeting by default shall be
+  held on zoom.\n\n\nSlack: jubril_mentor\n\nLocation: This is a Zoom web co
+ nference.\n\nYou can join this meeting from your computer\, tablet\, or sma
+ rtphone.\nhttps://us04web.zoom.us/j/72363423463?pwd=2b3XJMC3rMKu5j1w28kJ1uQ
+ BeDn7Um.1\n\nPassword: DW7c1U\n\nPlease share anything that will help prepa
+ re for our meeting.:\nHi Jubril\,\n\nThis will be our first\, introductiona
+ ry\, mentoring session. Looking forward to meet you\,\n\nKind regards\,\nMa
+ rja Marinic\n\nNeed to make changes to this event?\nCancel: https://calendl
+ y.com/cancellations/717ac7a7-e0b5-4d90-8cd6-2c227298cb45\nReschedule: https
+ ://calendly.com/reschedulings/717ac7a7-e0b5-4d90-8cd6-2c227298cb45\n\nPower
+ ed by Calendly.com\n
+LAST-MODIFIED:20221203T214523Z
+LOCATION:https://us04web.zoom.us/j/72363423463?pwd=2b3XJMC3rMKu5j1w28kJ1uQB
+ eDn7Um.1
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Marja Marinic and Jubril Akolade
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR
